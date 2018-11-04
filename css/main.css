@@ -1,0 +1,25 @@
+html {
+  background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
+  font-family: Overpass, sans-serif;
+}
+
+.icon-link {
+  display: inline-block;
+}
+
+.icon {
+  width: 32px;
+}
+
+svg {
+  fill: currentColor;
+}
+
+.btn:hover {
+  color: #fff;
+}
+
+
+@media only screen and (min-width: 60em) {
+
+}
