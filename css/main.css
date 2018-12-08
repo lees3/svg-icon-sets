@@ -18,17 +18,16 @@ section {
   list-style-type: none;
 }
 
-
-.icon-link {
-  display: inline-block;
+.text {
+  border-bottom: 2px solid rgba(255, 255, 255, 1);
 }
 
-.icon {
-  width: 32px;
+.icon img, .icon svg {
+  color: #fff;
 }
 
-svg {
-  fill: currentColor;
+h2, p {
+  text-align: left;
 }
 
 .btn:hover {
