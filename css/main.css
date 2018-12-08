@@ -30,8 +30,14 @@ h2, p {
   text-align: left;
 }
 
-.btn:hover {
+.btn-ghost {
+  border-color: rgba(255, 255, 255, 1);
   color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff;
+  border-color: #fff;
 }
 
 
