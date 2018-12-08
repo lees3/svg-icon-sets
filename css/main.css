@@ -43,11 +43,11 @@ h2, p {
 
 @media only screen and (min-width: 60em) {
 
-    .text {
-      border-bottom: none;
-    }
+  .text {
+    border-bottom: none;
+  }
 
-      section {
-        border-right: 2px solid rgba(255, 255, 255, 1);
-      }
+  section {
+    border-right: 2px solid rgba(255, 255, 255, 1);
+  }
 }
